@@ -208,7 +208,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text I": {
-              "font-size": "12px",
+              "font-size": "10px",
               "text-align": "left"
             },
             ".mbr-section-text": {
