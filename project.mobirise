@@ -47,6 +47,9 @@
           "_styles": {
             "DIV": {
               "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -315,7 +318,7 @@
             }
           },
           "title": "Selfie demo",
-          "text": "Here is an example of the 2-min selfie video taken during the field trip.<br>",
+          "text": "<b>Here is an example of the 2-min selfie video taken during the field trip.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
