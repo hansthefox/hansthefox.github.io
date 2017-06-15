@@ -208,7 +208,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text I": {
-              "font-size": "18px",
+              "font-size": "12px",
               "text-align": "left"
             },
             ".mbr-section-text": {
@@ -231,7 +231,7 @@
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
             "inverse": false,
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true
@@ -258,8 +258,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "<i><br></i><b>What you'll learn</b><br><i>- History can explain the present and is subject to ever-changing interpretations&nbsp;</i><br><i>- The interpretations of historical events arise out of the preconceptions and historical position of the observer</i><br><i>- Historical facts have a meaning only insofar as they bear on historical problems</i>",
+          "title": "What you'll learn",
+          "text": "<br><i>- History can explain the present and is subject to ever-changing interpretations&nbsp;</i><br><i>- The interpretations of historical events arise out of the preconceptions and historical position of the observer</i><br><i>- Historical facts have a meaning only insofar as they bear on historical problems</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
