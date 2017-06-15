@@ -420,12 +420,11 @@ h6,
 #header4-a .mbr-section-lead B {
   font-size: 36px;
 }
-#header2-g .mbr-section-text I {
-  font-size: 12px;
+#header2-h .mbr-section-text {
   text-align: left;
 }
-#header2-g .mbr-section-text {
-  font-size: 36px;
+#header2-h .mbr-section-title {
+  text-align: left;
 }
 #header6-b .mbr-section-title {
   color: #28262b;

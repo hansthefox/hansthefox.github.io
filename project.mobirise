@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -206,18 +206,9 @@
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-text I": {
-              "font-size": "12px",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header2-g",
+          "_anchor": "header2-h",
           "_params": {
-            "imageSize": "62",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -233,7 +224,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "media": {
@@ -258,9 +249,17 @@
               "size": 250
             }
           },
-          "title": "What you'll learn",
-          "text": "<br><i>- History can explain the present and is subject to ever-changing interpretations&nbsp;</i><br><i>- The interpretations of historical events arise out of the preconceptions and historical position of the observer</i><br><i>- Historical facts have a meaning only insofar as they bear on historical problems</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "What you'll learn&nbsp;",
+          "text": "<br>- History can explain the present and is subject to ever-changing interpretations <br>- The interpretations of historical events arise out of the preconceptions and historical position of the observer<br>- Historical facts have a meaning only insofar as they bear on historical problems<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "header2",
