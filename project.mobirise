@@ -224,7 +224,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -265,7 +265,7 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#28324e"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
@@ -277,7 +277,7 @@
           "_name": "header6",
           "_anchor": "header6-b",
           "_params": {
-            "imageSize": "63",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
