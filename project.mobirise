@@ -52,6 +52,34 @@
             "slides": [
               {
                 "active": false,
+                "image": "@PROJECT_PATH@/assets/images/hall-of-supreme-harmony-2000x1266.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/chengdu-opera-sichuan-actores-d04-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/korean-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -85,54 +113,12 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
+                "showTitle": true,
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/paris-manga-9-cosplay-hildegard-von-krone-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/chengdu-opera-sichuan-actores-d04-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/hall-of-supreme-harmony-2000x1266.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
                 "active": false,
@@ -142,8 +128,22 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "",
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
                 "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/paris-manga-9-cosplay-hildegard-von-krone-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": false,
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
@@ -154,7 +154,12 @@
             "showBullets": true
           },
           "_anchor": "slider-4",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "header1",

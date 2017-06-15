@@ -411,6 +411,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#slider-4 DIV {
+  text-align: center;
+}
 #header4-a .mbr-section-lead {
   text-align: left;
 }
