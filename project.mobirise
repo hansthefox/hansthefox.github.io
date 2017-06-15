@@ -44,6 +44,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -154,12 +159,7 @@
             "showBullets": true
           },
           "_anchor": "slider-4",
-          "articleLayout": false,
-          "_styles": {
-            "DIV": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "header1",
@@ -208,7 +208,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text I": {
-              "font-size": "10px",
+              "font-size": "12px",
               "text-align": "left"
             },
             ".mbr-section-text": {
