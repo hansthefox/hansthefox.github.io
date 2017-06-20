@@ -411,11 +411,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#slider-4 DIV {
+#slider-i DIV {
   text-align: center;
 }
-#slider-4 H2 {
+#slider-i H2 {
   text-align: center;
+}
+#header2-k .mbr-section-title {
+  text-align: right;
+  font-size: 36px;
 }
 #header4-a .mbr-section-lead {
   text-align: left;
@@ -428,6 +432,10 @@ h6,
 }
 #header2-h .mbr-section-title {
   text-align: left;
+}
+#content7-l P {
+  font-size: 17px;
+  color: #ffffff;
 }
 #header6-b .mbr-section-title {
   color: #28324e;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 22,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -59,7 +59,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/hall-of-supreme-harmony-2000x1266.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -67,10 +67,10 @@
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": true,
-                "text": "",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -81,34 +81,6 @@
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/korean-2000x1329.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/16886282662-8e517cdd3c-b-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
                 "showText": false,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "showButtons": false,
@@ -134,35 +106,103 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": true,
                 "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": true,
-                "text": "",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/paris-manga-9-cosplay-hildegard-von-krone-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/korean-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": true,
-                "title": "",
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/16886282662-8e517cdd3c-b-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
-          "_anchor": "slider-4",
+          "_anchor": "slider-i",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-k",
+          "_params": {
+            "imageSize": "63",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kheng-hock-keong-temple-at-2013-chinese-new-year-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/YEIsXx29wIw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Dr. Ng Pak -sheung&nbsp;",
+          "text": "Lecturer of General Education Centre, PolyU&nbsp;<br>GEC2C22M course leader&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -209,6 +249,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-h",
           "_params": {
             "imageSize": "65",
@@ -254,13 +302,26 @@
           },
           "title": "What you'll learn&nbsp;",
           "text": "<br>- History can explain the present and is subject to ever-changing interpretations <br>- The interpretations of historical events arise out of the preconceptions and historical position of the observer<br>- Historical facts have a meaning only insofar as they bear on historical problems<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text1": "<p><b>Background Information on Field Trip\n</b></p><p><br></p><p><b>1.\tPing Shan Heritage Trail\n</b></p><p><br></p><p><i>‘The first of its kind in Hong Kong, the Ping Shan Heritage Trail was inaugurated on 12 December 1993. Stretching about 1.6 km in length, the Trail meanders through Hang Mei Tsuen, Hang Tau Tsuen and Sheung Cheung Wai. It links up a number of traditional Chinese buildings within easy walking distance of each other to provide visitors with an opportunity to learn more about traditional life in the New Territories in a convenient half-day excursion.<span style=\"font-size: 1.07rem; line-height: 1.5;\">’ </span></i></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source: <a href=\"http://www.amo.gov.hk/en/trails_pingshan.php\" target=\"_blank\">Antiquities and Monuments Office, Leisure and Cultural Services Department</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">More on different historical buildings of the trail (e.g. Tsui Shing Lau Pagoda, Tang Ancestral Hall)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source: <a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp \" target=\"_blank\">Hong Kong Tourism Board</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.scmp.com/magazines/48-hours/article/1820566/ping-shan-slice-hong-kong-history-heritage-trail\" target=\"_blank\">A related article from South China Morning Post&nbsp;</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>2.  Ching Chung Koon</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">‘Lü Dongbin,one of the Eight Immortals of Taoism, once likened a righteous person to an evergreen pine tree, which the Chinese call ‘ching chung’. It’s from this metaphor that Ching Chung, a temple complex of the Dragon Gate sect of the Quanzhen School of Taoism, got its name. First opened as a rural retreat in 1961, Ching Chung Koon has since undergone extensive renovations and expansion. The payoff is now a popular scenic getaway for the residents of Tuen Mun, a final resting home for the cremated remains of former community members, and a place of refined beauty and charm. The main building is the Palace of Pure Brightness, which holds the temple’s most prized relics: lanterns bestowed by the Beijing Imperial Palace (commonly known as the Forbidden City). To see what fine Chinese calligraphy looks like, head to the Hall of Cloud and Water, where several good examples hang. These were created by scholars in the 1970s as tributes to the full moon during the Mid-Autumn Festival. Dotted around the exquisitely designed grounds are pagodas, pavilions, pai laus (ornamental archways), quadrangles, towers, Chinese gardens and fish ponds; all complemented by trees, shrubs, flowers and potted plants. In April or May each year, a fantastic bonsai exhibition containing hundreds of the artistically shaped trees is held in Ching Chung Koon.’</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source:  <a href=\" http://www.discoverhongkong.com/eng/see-do/culture-heritage/chinese-temples/ching-chung-koon.jsp\" target=\"_blank\">Hong Kong Tourism Board</a></span></p>",
+          "text2": "<p><i style=\"line-height: 1.5;\">‘Ching Chung Koon (青松觀 Qīng Sōng Guàn) or Green Pine Monastery is a large Taoist temple founded in Kowloon in 1949 by theDragon Gate Sect (龍門派 Lóng Mén Pài) of the Complete Reality School (全真派 Quán Zhēn Pài) of Taoism. Originally a rural retreat, it moved and grew over the years until it became the busy temple complex that exists here today. Dedicated to the immortal Leoi Dung Ban (呂洞賓 Lǚ Dòngbīn), the name Ching Chung is a reference to the green pine tree that is associated with the immortals of Taoism.  The evergreen tree is symbolic of immortality and longevity, as it remains green throughout the seasons. It is said that Lǚ Dòngbīn likened a righteous man to the ching chung pine tree. The temple flourished in its early years due to an influx of refugees from China and it sought to provide for the needs of these people. The temple provided an affordable traditional medical clinic and vegetarian food, a service that continues to this day.  As the temple needed to grow, land in Tuen Mun was acquired and larger structures were constructed in the 1960s and 70s. The temple is also very popular as a final resting place for the cremated remains of local people, so it has expanded constantly in order to provide halls that can fit in all of ashes.’</i><br></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i>Source: &nbsp;<a href=\"http://thetempletrail.com/ching-chung-koon/\">The Temple Trail</a></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><b><span style=\"line-height: 1.5;\">3</span><span style=\"line-height: 1.5;\">.\tTsing Shan Monastery\n</span></b></p><p><i style=\"line-height: 1.5;\"><br></i></p><p><i style=\"line-height: 1.5;\">‘Tsing Shan Monastery, also known as Qingshan Chanyuan, is located in Tuen Mun and is one of the three oldest temples in Hong Kong. It is proven by research to be the birthplace of Buddhism in Hong Kong. The earliest history of Qingshan Chanyuan was recorded in the 1464 Dongguan Gazetteer and the 1688 and 1819 Xinan Gazetteer. In the fifth century, soldiers were posted in Tuen Mun, and all foreigners needed to alight there to complete their entrance formalities probably at the place where Kau Hui (“Old Marketplace”) is located today.\n\nBuddhism was introduced to China from South East Asia between the Wu (222-280 A.D.) and the Lou Song periods (420-479 A.D.). In the mid-fifth century, a Buddhist master landed there. According to the legend, he possessed divine powers and travelled across the ocean in a wooden cup. Thus, he was called “Master Pei Tu”. Since there were no monks to administering religious ceremonies in the barracks at that time, Master Pei Tu stayed behind. He went up the mountain and lived as a hermit near the barracks. Therefore, the location of Tsing Shan Monastery is the birthplace [of Buddhism] in Hong Kong.’\n\n</i></p><p><i style=\"line-height: 1.5;\"><br></i></p><p><span style=\"line-height: 1.5;\">Source: <a href=\"http://eng.tsm.org.hk/e_c_01.html \" target=\"_blank\">Tsing Shan Monastery</a></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p>",
+          "text3": "<p><b>4. Tsing Wan Kun\n</b></p><p><br></p><p><i>‘In the middle of the 5th century, Buddhist Master Pui To* (杯渡禪師) from India arrived in Tuen Mun, where at that time was a military outpost where foreigners were required to go through immigration customs. Legend has it that Pui To traveled in a “wooden cup” across the sea, and therefore was named “Pui To”, which literally means “cup sailing”.  Pui To decided to stay in Tuen Mun to host religious ceremonies and teaching sessions for the stationed soldiers.  He settled on the mountain above the military station and practiced meditation regularly in a cave.  His name was widespread across the region, and his residing place (a grotto and hut) soon became a place for pilgrimage.  In the next 1500 years, this pilgrimage site had been considered as the origin of Buddhism in Hong Kong.  In 1829, the To clan built a Taoist institution known as Tsing Wan Kwun (青雲觀) just adjacent to the pilgrim site of Pui To.’</i></p><p><br></p><p>\n\nSource: <a href=\"https://bluelapisroad.wordpress.com/tag/tsing-wan-kun/\" target=\"_blank\">https://bluelapisroad.wordpress.com/tag/tsing-wan-kun/</a>\n\n</p><p><br></p><p>*also known as Master Pei Tu as in the aforementioned information from Tsing Shan Monastery\n</p>",
           "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
+            "P": {
+              "font-size": "17px",
+              "color": "#ffffff"
             }
           }
         },
