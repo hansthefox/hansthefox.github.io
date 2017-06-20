@@ -182,7 +182,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://youtu.be/YEIsXx29wIw",
+              "src": "https://youtu.be/lGolFx4wkYs",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -195,7 +195,7 @@
             }
           },
           "title": "Dr. Ng Pak -sheung&nbsp;",
-          "text": "Lecturer of General Education Centre, PolyU&nbsp;<br>GEC2C22M course leader&nbsp;",
+          "text": "Lecturer, General Education Centre, PolyU&nbsp;<br>GEC2C22M course leader&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title": {
