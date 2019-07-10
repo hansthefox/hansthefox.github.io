@@ -697,6 +697,13 @@ h6,
   text-align: center;
   color: #ffffff;
 }
+#header6-39 .mbr-section-title {
+  color: #ffffff;
+  font-size: 48px;
+}
+#header6-39 .mbr-section-text {
+  color: #ffffff;
+}
 #msg-box7-t .mbr-section-title,
 #msg-box7-t .lead p {
   color: #fff;
@@ -895,10 +902,29 @@ h6,
 #header2-1g .mbr-section-text {
   font-size: 36px;
 }
-#header6-1h .mbr-section-title {
+#header6-37 .mbr-section-title {
+  color: #ffffff;
+  font-size: 48px;
+}
+#header6-37 .mbr-section-text {
   color: #ffffff;
 }
+#header6-1h .mbr-section-title {
+  color: #ffffff;
+  text-align: right;
+  font-size: 36px;
+}
 #header6-1h .mbr-section-text {
+  color: #ffffff;
+}
+#header6-1h .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#header6-38 .mbr-section-title {
+  color: #ffffff;
+  font-size: 48px;
+}
+#header6-38 .mbr-section-text {
   color: #ffffff;
 }
 #msg-box7-1i .mbr-section-title,

@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 115,
+    "uniqCompNum": 118,
     "versionPublish": "4.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -154,7 +154,7 @@
             "showArrow": true,
             "imageSize": "62",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -164,7 +164,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -402,6 +402,64 @@
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "63",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf0825-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ycAtLI8U9G8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Cultural gathering",
+          "text": "Chinese Calligraphy &amp; Mandarin Karaoke Workshop",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-39"
         },
         {
           "_inherit": "msg-box5",
@@ -1172,10 +1230,73 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "48px"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "63",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-721-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ycAtLI8U9G8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Fast-track Acquaintance<br><br>Ice-breaking in the first lesson",
+          "text": "This activity is fast but impactful and decisive for the successful milestone summer course. It facilitates the students to quickly acquaint and team up with their peers from a mixed cultural background.<br><br>Team members face each other and stare at the other person without talking or touching for 2 minutes.<br>They are asked to remain silent and try to imagine:<br>• Where does this person come from?<br>• What is this person studying, and what major would that be?<br>• What hobbies would this person have?<br>• What makes this person want to choose this course?<br>• Is this a nice person to work with?<br>• What can you see through this person’s eyes, breath, and facial expression?<br><br>After this contemplation, team members tell each other what they have imagined, and can ask questions about the other person. They then introduce each other in front of the class.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-37"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1186,7 +1307,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": true,
             "imageSize": "63",
             "bgImageRadio": true,
@@ -1199,7 +1320,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#2e2e2e",
             "overlayOpacity": "0.3"
           },
           "media": {
@@ -1220,10 +1341,68 @@
               "size": 250
             }
           },
-          "title": "Field trip",
-          "text": "A field trip to Ping Shan Heritage Trail, Tsing Shan Monastery, and Tsing Wan Temple was held on 23 June. We all had a good time learning from the trip!<br>",
+          "title": "Exploratory Activities- Cultural sharing events:<br><br><span style=\"font-size: 3rem;\">Field trip</span>",
+          "text": "<br>A field trip to Ping Shan Heritage Trail, Tsing Shan Monastery, and Tsing Wan Temple was held on 23 June. We all had a good time learning from the trip!<br><br>Challenge and re-conceptualize students’ perspectives in adventurous tasks in time, place, cultures and societies. It is an effective way to build a respectful climate for all differences by being culturally inclusive.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "header6-1h"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "63",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-25-19h12m17s917-1-1280x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ycAtLI8U9G8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Team-up Projects- Multicultural teamwork assignments<br><br>Reflective journal in a dialogue format<br>(Samples of the assignemnts)<br><br>",
+          "text": "After attending the field trip, students are tasked with writing a reflective journal in a dialogue format with their teammates. The students take turn raising three questions for their teammates to answer. Topics for the questions include ancestor worships, individual achievements and the glory of their own Kin, Imperial Examinations, pragmatism on Chinese religious practice, and the impact of bureaucracy on deities arrangement in temples.<br><br>Students are encouraged to critically discuss the questions and compare with their own experiences and cultural custom. This discussion is filmed and a 10- minute video clip is uploaded to a common platform.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-38"
         },
         {
           "_inherit": "msg-box5",
