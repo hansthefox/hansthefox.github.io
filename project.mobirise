@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "index.html",
-    "name": "GEC2C22 East Asia: Its History and Culture",
+    "currentPage": "ISS_2017.html",
+    "name": "GEC International Summer School - PolyU",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,162 +19,100 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#a07e49",
+        "#dfdfdf",
+        "#2e2e2e"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 115,
+    "versionPublish": "4.10.3",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "cookiesAlert": "",
+    "gdpr": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "ISS_2017.html": {
       "settings": {
-        "main": true,
-        "title": "GEC2C22 East Asia: Its History and Culture ",
+        "title": "GEC ISS 2017 - GEC2C22 East Asia: Its History and Culture ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "DIV": {
-              "text-align": "center"
-            },
-            "H2": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hall-of-supreme-harmony-2000x1266.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/chengdu-opera-sichuan-actores-d04-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/niomon-gate-saimon-gate-and-sanjunoto-tower-of-kiyomizudera-temple-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/fancy-frontier-22-9378000326-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/korean-2000x1329.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/16886282662-8e517cdd3c-b-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": false
-          },
-          "_anchor": "slider-i",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-k",
-          "_params": {
-            "imageSize": "63",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kheng-hock-keong-temple-at-2013-chinese-new-year-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf1620-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
+          "text": "Summer 2017",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-10"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/IwACu3Yri9o?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/IwACu3Yri9o?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -182,11 +120,11 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://youtu.be/lGolFx4wkYs",
+              "active": true,
+              "src": "https://youtu.be/oUtHfz5NCU4",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -194,89 +132,39 @@
               "size": 250
             }
           },
-          "title": "Dr. &nbsp;Pak-sheung, NG&nbsp;",
-          "text": "Lecturer, General Education Centre, PolyU&nbsp;<br>GEC2C22M course leader&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-size": "36px"
-            }
-          }
-        },
-        {
-          "_inherit": "header1",
+          "title": "About this course",
+          "text": "<i>- Focuses on the complex relationships between East Asian tradition and Western culture<br>- Surveys the development of the Confucian tradition from its origins in imperial China through its spread to Japan and Korea to its reemergence in contemporary East Asia<br>- Examines the impact of Western culture which had become influential during the modern era</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-lead B": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header4-a",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/IwACu3Yri9o?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "VIDEO BACKGROUND",
-          "text": "<b style=\"font-style: normal;\">About this course</b><br>- Focuses on the complex relationships between East Asian tradition and Western culture<br>- Surveys the development of the Confucian tradition from its origins in imperial China through its spread to Japan and Korea to its reemergence in contemporary East Asia<br>- Examines the impact of Western culture which had become influential during the modern era",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "_name": "header6",
+          "_anchor": "header6-2t"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header2-h",
           "_params": {
-            "imageSize": "65",
-            "parallax": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "62",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -300,87 +188,220 @@
               "size": 250
             }
           },
-          "title": "What you'll learn&nbsp;",
-          "text": "<br>- History can explain the present and is subject to ever-changing interpretations <br>- The interpretations of historical events arise out of the preconceptions and historical position of the observer<br>- Historical facts have a meaning only insofar as they bear on historical problems<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
-          },
-          "text1": "<p><b>Background Information on Field Trip\n</b></p><p><br></p><p><b>1.\tPing Shan Heritage Trail\n</b></p><p><br></p><p><i>‘The first of its kind in Hong Kong, the Ping Shan Heritage Trail was inaugurated on 12 December 1993. Stretching about 1.6 km in length, the Trail meanders through Hang Mei Tsuen, Hang Tau Tsuen and Sheung Cheung Wai. It links up a number of traditional Chinese buildings within easy walking distance of each other to provide visitors with an opportunity to learn more about traditional life in the New Territories in a convenient half-day excursion.<span style=\"font-size: 1.07rem; line-height: 1.5;\">’ </span></i></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source: <a href=\"http://www.amo.gov.hk/en/trails_pingshan.php\" target=\"_blank\">Antiquities and Monuments Office, Leisure and Cultural Services Department</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">More on different historical buildings of the trail (e.g. Tsui Shing Lau Pagoda, Tang Ancestral Hall)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source: <a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp \" target=\"_blank\">Hong Kong Tourism Board</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.scmp.com/magazines/48-hours/article/1820566/ping-shan-slice-hong-kong-history-heritage-trail\" target=\"_blank\">A related article from South China Morning Post&nbsp;</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>2.  Ching Chung Koon</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">‘Lü Dongbin,one of the Eight Immortals of Taoism, once likened a righteous person to an evergreen pine tree, which the Chinese call ‘ching chung’. It’s from this metaphor that Ching Chung, a temple complex of the Dragon Gate sect of the Quanzhen School of Taoism, got its name. First opened as a rural retreat in 1961, Ching Chung Koon has since undergone extensive renovations and expansion. The payoff is now a popular scenic getaway for the residents of Tuen Mun, a final resting home for the cremated remains of former community members, and a place of refined beauty and charm. The main building is the Palace of Pure Brightness, which holds the temple’s most prized relics: lanterns bestowed by the Beijing Imperial Palace (commonly known as the Forbidden City). To see what fine Chinese calligraphy looks like, head to the Hall of Cloud and Water, where several good examples hang. These were created by scholars in the 1970s as tributes to the full moon during the Mid-Autumn Festival. Dotted around the exquisitely designed grounds are pagodas, pavilions, pai laus (ornamental archways), quadrangles, towers, Chinese gardens and fish ponds; all complemented by trees, shrubs, flowers and potted plants. In April or May each year, a fantastic bonsai exhibition containing hundreds of the artistically shaped trees is held in Ching Chung Koon.’</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Source:  <a href=\" http://www.discoverhongkong.com/eng/see-do/culture-heritage/chinese-temples/ching-chung-koon.jsp\" target=\"_blank\">Hong Kong Tourism Board</a></span></p>",
-          "text2": "<p><i style=\"line-height: 1.5;\">‘Ching Chung Koon (青松觀 Qīng Sōng Guàn) or Green Pine Monastery is a large Taoist temple founded in Kowloon in 1949 by theDragon Gate Sect (龍門派 Lóng Mén Pài) of the Complete Reality School (全真派 Quán Zhēn Pài) of Taoism. Originally a rural retreat, it moved and grew over the years until it became the busy temple complex that exists here today. Dedicated to the immortal Leoi Dung Ban (呂洞賓 Lǚ Dòngbīn), the name Ching Chung is a reference to the green pine tree that is associated with the immortals of Taoism.  The evergreen tree is symbolic of immortality and longevity, as it remains green throughout the seasons. It is said that Lǚ Dòngbīn likened a righteous man to the ching chung pine tree. The temple flourished in its early years due to an influx of refugees from China and it sought to provide for the needs of these people. The temple provided an affordable traditional medical clinic and vegetarian food, a service that continues to this day.  As the temple needed to grow, land in Tuen Mun was acquired and larger structures were constructed in the 1960s and 70s. The temple is also very popular as a final resting place for the cremated remains of local people, so it has expanded constantly in order to provide halls that can fit in all of ashes.’</i><br></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i>Source: &nbsp;<a href=\"http://thetempletrail.com/ching-chung-koon/\">The Temple Trail</a></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><b><span style=\"line-height: 1.5;\">3</span><span style=\"line-height: 1.5;\">.\tTsing Shan Monastery\n</span></b></p><p><i style=\"line-height: 1.5;\"><br></i></p><p><i style=\"line-height: 1.5;\">‘Tsing Shan Monastery, also known as Qingshan Chanyuan, is located in Tuen Mun and is one of the three oldest temples in Hong Kong. It is proven by research to be the birthplace of Buddhism in Hong Kong. The earliest history of Qingshan Chanyuan was recorded in the 1464 Dongguan Gazetteer and the 1688 and 1819 Xinan Gazetteer. In the fifth century, soldiers were posted in Tuen Mun, and all foreigners needed to alight there to complete their entrance formalities probably at the place where Kau Hui (“Old Marketplace”) is located today.\n\nBuddhism was introduced to China from South East Asia between the Wu (222-280 A.D.) and the Lou Song periods (420-479 A.D.). In the mid-fifth century, a Buddhist master landed there. According to the legend, he possessed divine powers and travelled across the ocean in a wooden cup. Thus, he was called “Master Pei Tu”. Since there were no monks to administering religious ceremonies in the barracks at that time, Master Pei Tu stayed behind. He went up the mountain and lived as a hermit near the barracks. Therefore, the location of Tsing Shan Monastery is the birthplace [of Buddhism] in Hong Kong.’\n\n</i></p><p><i style=\"line-height: 1.5;\"><br></i></p><p><span style=\"line-height: 1.5;\">Source: <a href=\"http://eng.tsm.org.hk/e_c_01.html \" target=\"_blank\">Tsing Shan Monastery</a></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p><p><span style=\"line-height: 1.5;\"><i><br></i></span></p>",
-          "text3": "<p><b>4. Tsing Wan Kun\n</b></p><p><br></p><p><i>‘In the middle of the 5th century, Buddhist Master Pui To* (杯渡禪師) from India arrived in Tuen Mun, where at that time was a military outpost where foreigners were required to go through immigration customs. Legend has it that Pui To traveled in a “wooden cup” across the sea, and therefore was named “Pui To”, which literally means “cup sailing”.  Pui To decided to stay in Tuen Mun to host religious ceremonies and teaching sessions for the stationed soldiers.  He settled on the mountain above the military station and practiced meditation regularly in a cave.  His name was widespread across the region, and his residing place (a grotto and hut) soon became a place for pilgrimage.  In the next 1500 years, this pilgrimage site had been considered as the origin of Buddhism in Hong Kong.  In 1829, the To clan built a Taoist institution known as Tsing Wan Kwun (青雲觀) just adjacent to the pilgrim site of Pui To.’</i></p><p><br></p><p>\n\nSource: <a href=\"https://bluelapisroad.wordpress.com/tag/tsing-wan-kun/\" target=\"_blank\">https://bluelapisroad.wordpress.com/tag/tsing-wan-kun/</a>\n\n</p><p><br></p><p>*also known as Master Pei Tu as in the aforementioned information from Tsing Shan Monastery\n</p>",
+          "title": "INTRO WITH IMAGE",
+          "text": "<i><br></i><b>What you'll learn</b><br><i>- History can explain the present and is subject to ever-changing interpretations&nbsp;</i><br><i>- The interpretations of historical events arise out of the preconceptions and historical position of the observer</i><br><i>- Historical facts have a meaning only insofar as they bear on historical problems</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            "P": {
-              "font-size": "17px",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28324e"
+            ".mbr-section-text I": {
+              "font-size": "18px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "font-size": "36px"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-b",
+          "_anchor": "header2-r"
+        },
+        {
+          "_inherit": "msg-box5",
           "_params": {
-            "imageSize": "65",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#ccc",
-            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": true,
+            "imageSize": "64",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/TXVAGNSfq0M",
+              "src": "https://youtu.be/x3KIaH2EWHg",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 250
             }
           },
           "title": "Selfie demo",
-          "text": "<b>Here is an example of the 2-min selfie video taken during the field trip.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p>Here is an example of the 2-min selfie video taken during the field trip.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#00a885"
+          },
+          "title": "Samples of students' selfie assignments",
+          "meta": "Let's see what the students would like to tell in their selfies!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2v"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/PGJr0pYlD-4",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h52m41s410-1280x720.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h52m41s410-1280x720-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/5eM3b8j3ITg",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m05s434-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m05s434-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/OZ7SaSbO7i8",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m37s847-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m37s847-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ZDWyI3fftHk",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m06s347-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m06s347-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/oOWoJW6eaUk",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m16s883-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m16s883-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/QaxVqQkHLTA",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m32s196-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m32s196-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Td_pLhx4SNU",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m27s197-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m27s197-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/fwJb3mYYoYQ",
+                "image": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m54s972-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m54s972-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2u",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel mbr-after-navbar\" data-filter=\"false\" data-rv-view=\"48\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/PGJr0pYlD-4\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h52m41s410-1280x720.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/5eM3b8j3ITg\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m05s434-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/ZDWyI3fftHk\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m37s847-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/oOWoJW6eaUk\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m06s347-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/QaxVqQkHLTA\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m16s883-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/Td_pLhx4SNU\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m32s196-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/qFGFm1Yq6GI\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m27s197-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0 video-slide\" data-video-url=\"https://youtu.be/fwJb3mYYoYQ\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-2u\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            <div></div>\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m54s972-1920x1080.png\">\n\n                            \n                            <span class=\"icon-video\"></span>\n                            \n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-2u\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    \n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item active video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h52m41s410-1280x720.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m05s434-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h53m37s847-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m06s347-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m16s883-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h54m32s196-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m27s197-1920x1080.png\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item video-container\">\n                            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2019-07-08-14h55m54s972-1920x1080.png\" alt=\"\" title=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-2u\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-2u\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_inherit": "msg-box5",
@@ -393,27 +414,26 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-1",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "63",
             "paddingTop": "6",
             "paddingBottom": "6",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2017-06-13-10h51m16s117-2000x1135.png",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -422,7 +442,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/xeKd-y2h25g",
+              "src": "https://youtu.be/oIm_hegvBtQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -435,24 +455,25 @@
           },
           "title": "What our students from different cultural backgrounds say.",
           "text": "You are brilliant! &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_anchor": "msg-box7-t"
         },
         {
           "_name": "footer1",
-          "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 The Hong Kong Polytechnic University"
+          "text": "Copyright (c) 2019 The Hong Kong Polytechnic University",
+          "_anchor": "footer1-u"
         },
         {
           "_inherit": "features1",
@@ -468,29 +489,28 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features2-2",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -499,13 +519,13 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
-          "title1": "Book &nbsp;Report",
+          "title1": "Book Report",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>50%<br>2500 words, due on July 7<br>You are required to use APA style for referencing. Here is the website for your reference: <a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\">APA style</a></p><br><p>(Submit through Blackboard)<a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"><br></a><a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"></a><br></p>",
+          "caption1": "<p>50%<br>2500 words, due on July 7<br>You are required to use APA style for referencing. Here is the website for your reference: <a href=\"https://elc.polyu.edu.hk/cill/reference.aspx\" target=\"_blank\">APA style</a></p><br><p>(Submit through Blackboard)<a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"><br></a><a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"></a><br></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -514,13 +534,13 @@
               "name": "video",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
-          "title2": "Selflie video of field trip",
+          "title2": "Selfie Video of Field Trip",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "5%<br>Max 2 mins, <br>on the spot or in studio,<br>due on July 7<br> <br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Blackboard)<br>",
+          "caption2": "5%<br>Maximum length: 2 minutes,&nbsp;<br>on the spot or in studio,<br>due on July 7<br> <br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Blackboard)<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -529,13 +549,13 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
           "title3": "Field Trip Report",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "10%<br>Group report in 2500 words,&nbsp;<br>due on July 7<br><br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Blackboard)<br>",
+          "caption3": "10%<br>2500 words group report, &nbsp;<br>due on July 7<br><br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Blackboard)<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -544,13 +564,13 @@
               "name": "cust-feedback",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
           "title4": "Quizzes",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "35%<br>June 30 &amp; July 3.",
+          "caption4": "35%<br>June 30 &amp; July 3",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -579,62 +599,2148 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features2-v"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">Why GEC?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ISS2019</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2018.html\">ISS 2018</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2017.html\">ISS 2017</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD BOOKLET 2018</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/polyu-logo-114x114.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PolyU-GEC ISS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>Welcome to Join!</b></p><p><br></p><p>If you are interested in PolyU International Summer School 2019, please visit <a href=\"http://www.polyu.edu.hk/summerschool/\" target=\"_blank\">https://www.polyu.edu.hk/summerschool/</a>. All PolyU, international, and local students are welcome to join us.</p>",
+          "text2": "<p><b>Contacts</b></p><p><br></p><p>General Education Centre</p><p>Room A501, Chung Sze Yuen Building,</p><p>The Hong Kong Polytechnic University,</p><p>Hung Hom, Kowloon, Hong Kong&nbsp;</p><p><br></p><p><a href=\"mailto:gedept@polyu.edu.hk\" style=\"font-size: 1.07rem; background-color: rgb(46, 46, 46);\">gedept@polyu.edu.hk</a><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2q",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "GEC International Summer School - PolyU",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 The Hong Kong Polytechnic University"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">Why GEC?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ISS2019</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2018.html\">ISS 2018</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2017.html\">ISS 2017</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD BOOKLET 2018</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/polyu-logo-114x114.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PolyU-GEC ISS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/website-background-2000x1413.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "GEC International Summer School<br>Learning and Teaching",
+          "text": "Summer 2019",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"assets/files/gec_iss_booklet_2018.pdf\" data-toolbar=\"-mbrBtnMove\">Booklet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\"></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"ISS_2017.html\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "Subjects on offer<br>Summer 2019",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2w"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfdfdf",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/QHks9PqTpyw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "&nbsp;GEC1C31/W<br>Ways of Chinese Wisdom",
+          "text": "<p>(open to International students only)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.polyu.edu.hk/summerschool/images/web_doc/2019/GEC1C31_Ways_of_Chinese_Wisdom.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2v",
+          "_customHTML": "<section class=\"mbr-section mbr-after-navbar\" data-rv-view=\"9\" style=\"background-color: rgb(223, 223, 223); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"61\">&nbsp;GEC1C31/W<br>Ways of Chinese Wisdom</h3>\n                  \n\n                  <div><a class=\"btn btn-info mbr-editable-button\" href=\"Subjects/GEC1C31_2019.html\" code-editable-id=\"62\">Learn more</a></div>\n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 55%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/QHks9PqTpyw?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H3 {\n  color: #00a885;\n}\nP {\n  color: #2e2e2e;\n}\n.btn {\n  font-size: 14px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "55",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/A_Q3cW5rjy8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "GEC1C46/M<div>Aspects of Western Philosophy</div>",
+          "text": "<p>(open to International students only).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"assets/files/GEC1C46M_AS%20140_2018%20Dec%20(subject%20to%20approval).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2t",
+          "_customHTML": "<section class=\"mbr-section mbr-after-navbar\" data-rv-view=\"12\" style=\"background-color: rgb(239, 239, 239); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 55%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/A_Q3cW5rjy8?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"59\">GEC1C46/M<div>Aspects of Western Philosophy</div></h3>\n                  \n\n                  <div><a class=\"btn btn-success mbr-editable-button\" href=\"Subjects/GEC1C46_2019.html\" code-editable-id=\"60\">Learn more</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "DIV {\n  color: #3d8eb9;\n}\nP {\n  color: #2e2e2e;\n}\n.btn {\n  font-size: 14px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>Welcome to Join!</b></p><p><br></p><p>If you are interested in PolyU International Summer School 2019, please visit <a href=\"https://www.polyu.edu.hk/summerschool\" target=\"_blank\" style=\"font-style: normal;\">https://www.polyu.edu.hk/summerschool/</a>. All PolyU, international, and local students are welcome to join us.</p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Contacts</b></p><p><br></p><p>General Education Centre</p><p>Room A501, Chung Sze Yuen Building,</p><p>The Hong Kong Polytechnic University,</p><p>Hung Hom, Kowloon, Hong Kong&nbsp;</p><p><br></p><p><a href=\"mailto:gedept@polyu.edu.hk\" style=\"font-style: normal;\">gedept@polyu.edu.hk</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2p",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "ISS_2018.html": {
+      "settings": {
+        "title": "GEC ISS 2018 - GEC2C22 East Asia: Its History and Culture ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hall-of-supreme-harmony-2000x1267.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEC2C22M East Asia:&nbsp;<div>Its History and Culture</div>",
+          "text": "<p>Summer, 2018</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1e"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/QTgl2hAntMI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/QTgl2hAntMI",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "<b style=\"font-style: normal;\">About this course</b><br>- Focuses on the complex relationships between East Asian tradition and Western culture<br>- Surveys the development of the Confucian tradition from its origins in imperial China through its spread to Japan and Korea to its reemergence in contemporary East Asia<br>- Examines the impact of Western culture which had become influential during the modern era",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-1f"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
+          "_name": "header2",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "62",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-702-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-703-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "<i><br></i><b>What you'll learn</b><br><i>- History can explain the present and is subject to ever-changing interpretations&nbsp;</i><br><i>- The interpretations of historical events arise out of the preconceptions and historical position of the observer</i><br><i>- Historical facts have a meaning only insofar as they bear on historical problems</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            "B": {
+            ".mbr-section-text I": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header2-1g"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts4-8",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "63",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>Core A, Room A514, General Education Centre,<br>PolyU<br><br><br>\n<strong>Contacts</strong><br><b>Dr. Pak-sheung, NG</b><br>ng.pak-sheung@polyu.edu.hk<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Filed Trip:&nbsp;Ping Shan Heritage Trail</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><br></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "ng.pak-sheung@polyu.edu.hk",
-            "alerts": {
-              "success": "Thanks for filling out form!"
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/UqTw_LMogz4",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "title": "Field trip",
+          "text": "A field trip to Ping Shan Heritage Trail, Tsing Shan Monastery, and Tsing Wan Temple was held on 23 June. We all had a good time learning from the trip!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "header6-1h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "63",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2018-06-28-15h40m34s971-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/m1qORODRy_Y",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "What our students from different cultural backgrounds say.",
+          "text": "You are brilliant! &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_anchor": "msg-box7-1i"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 The Hong Kong Polytechnic University",
+          "_anchor": "footer1-1j"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Book &nbsp;Report",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<p>50%<br>2500 words, due on July 7<br>You are required to use APA style for referencing. Here is the website for your reference: <a href=\"https://elc.polyu.edu.hk/cill/reference.aspx\" target=\"_blank\">APA style</a></p><br><p>(Submit through Blackboard)<a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"><br></a><a href=\"You are required to use APA style for referencing. Here is the website for your reference: http://elc.polyu.edu.hk/referencing/APA.aspx\" target=\"_blank\"></a><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Field Trip Video: Dialogue&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "5%<br>Maximum length: 10 minutes,&nbsp;<br>due on July 7<br> <br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Google Form)<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Field Trip Report",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "10%<br>1500 words group report,&nbsp;<br>due on July 7<br><br>Web source: <br><a href=\"http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/chinese/ping-shan-heritage-trail.jsp\" target=\"_blank\">Ping Shan Heritage Trail</a><br><br>(Submit through Blackboard)<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "cust-feedback",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Quizzes",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "35%<br><br>July 3-4",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features2-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>Welcome to Join!</b></p><p><br></p><p>If you are interested in PolyU International Summer School 2019, please visit <a href=\"https://www.polyu.edu.hk/summerschool/\" target=\"_blank\">https://www.polyu.edu.hk/summerschool/</a>. All PolyU, international, and local students are welcome to join us</p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Contacts</b></p><p><br></p><p>General Education Centre</p><p>Room A501, Chung Sze Yuen Building,</p><p>The Hong Kong Polytechnic University,</p><p>Hung Hom, Kowloon, Hong Kong&nbsp;</p><p><br></p><p><a href=\"mailto:gedept@polyu.edu.hk\" style=\"font-size: 1.07rem; background-color: rgb(46, 46, 46);\">gedept@polyu.edu.hk</a><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2r",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">Why GEC?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ISS2019</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2018.html\">ISS 2018</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2017.html\">ISS 2017</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD BOOKLET 2018</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/polyu-logo-114x114.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PolyU-GEC ISS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1m"
+        }
+      ]
+    },
+    "Introduction.html": {
+      "settings": {
+        "title": "Why taking GEC ISS subjects?",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 The Hong Kong Polytechnic University"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">Why GEC?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ISS2019</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2018.html\">ISS 2018</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ISS_2017.html\">ISS 2017</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD BOOKLET 2018</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/polyu-logo-114x114.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PolyU-GEC ISS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1324-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "GEC International Summer School",
+          "text": "Each summer, GEC offers courses for the International Summer School, during which PolyU and exchange students will study in a mixed learning environment, with a wider variety of intercultural learning activities. For more information, you can check up out this website, or download the booklet.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"assets/files/GEC_ISS_booklet.pdf\" data-toolbar=\"-mbrBtnMove\">Booklet</a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-24-18h08m25s874-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Goal",
+          "text": "<p>Through interactions and multiple interactive tasks with international students from exchange-partnership universities mainly in Europe and the US, the General Education Centre (GEC) International Summer School courses will expand the social and cultural horizons of PolyU students and help them develop corresponding skills. In addition, both exchange and PolyU students will deepen their understanding of different cultures with alternate visions of a globalized world and enhanced skills and abilities.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Our Team",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dr-chun-104x104.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dr-ng-104x104.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dr-fok-104x104.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Dr. Jack Chun",
+          "subtitle1": "Project Principal Investigator&nbsp;<div>Interim Director, General Education Centre</div>",
+          "caption1": "Dr. Jack Chun received his B.A. and Ph.D. in the University of Hong Kong and the University of Toronto as a Commonwealth Scholar respectively. He specializes in applied ethics and comparative philosophy (Kant and modern Confucianism). An awardee of teaching awards, he designed and delivered a number of teaching projects, including the GEC MOOC of Life and Death, which was evolved from the campus version of one of the popular CAR subjects, with over 6000 students enrolled in just the first few years.",
+          "title2": "Dr. Ng Pak-sheung",
+          "subtitle2": "Visiting Lecturer, General Education Centre&nbsp;",
+          "caption2": "Dr. Ng Pak-sheung received his B.A. and M. Phil. from the Chinese University of Hong Kong. After a few years of academic pursuit in the United States, he obtained his Doctoral Degree from the University of Arizona in 1997. His areas of research cover political, social, military, and minority studies with substantial emphasis on the Tang and Song dynasties. His current research interest focuses on the history of Hong Kong.",
+          "title3": "Dr. Silvia Fok&nbsp;",
+          "subtitle3": "Lecturer, General Education Centre",
+          "caption3": "Dr. Silvia Fok received her B.A., M. Phil., and Ph.D. from the University of Hong Kong. Her primary research is contemporary Chinese art. She has taught courses on modern and contemporary art history in the Hong Kong Art School and participated in the Hong Kong Art Archive project as the Project Coordinator from 2002 to 2004. She worked as a part-time Lecturer at the Department of Fine Arts, HKU, and the Department of Cultural and Religious Studies, CUHK in 2009 before joining the General Education Centre in January 2010.<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-27",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "62",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/timeline-667x375.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Project Timeline",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "GEC’s International Summer School Courses",
+          "meta": "Summer, 2017/18",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-705-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-701-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc07823-3-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "GEC2C22/GEC2C22M&nbsp;<div>East Asia: Its History and Culture</div>",
+          "subtitle1": "",
+          "caption1": "This subject focuses on the complex relationships between East Asian tradition and Western culture.<br><br>",
+          "title2": "GEC1C20/GEC1C20M&nbsp;<div>Chinese Art and Design</div>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "This subject will explore the rich world of Chinese art and design of the pre-modern era.<br><br>",
+          "title3": "GEC1C31W/GEC1C31&nbsp;<div>Ways of Chinese Wisdom</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "This subject fosters a holistic understanding of Chinese wisdom with topical coverage of historical, cultural, philosophical, religious, and political issues.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.polyu.edu.hk/%7Egec/event/CAR/GEC2C22/index.php?N=GEC2C22\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.polyu.edu.hk/%7Egec/event/CAR/GEC1C20/index.php?N=GEC1C20)\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.polyu.edu.hk/%7Egec/event/CAR/GEC1C31W/index.php?N=GEC1C31W\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-29",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfdfdf",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/model-2-860x888.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Innovative Pedagogies",
+          "text": "<p>A key innovative pedagogy adopted was drawn from “the process of Internationalization of the Curriculum (IoC) in action” model (see below) by Professor Betty Leask. She is an internationally renowned researcher on internationalization of the curriculum and higher education.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1x",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfdfdf",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "title1": "Stage 1: Review &amp; Reflect",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "“Reviewing content, teaching and learning arrangements and assessment in individual courses and across the program in relation to internationalization of curriculum.”<br>",
+          "title2": "Stage 2: Imagine",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "“Imagining the world of the future: what and how will your students need to learn, in order to live and work effectively and ethically in this future world?”",
+          "title3": "Stage 3: Revise &amp; Plan",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "“Establishing goals and objectives from internationalization of the curriculum in your program.”<br>",
+          "title4": "Stage 4: Act",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "“Introducing compulsory workshops for all students prior to a multicultural team work assignment”<br><br>“Collecting evidence to evaluate the development of intercultural and international knowledge, skills, and attitudes in students (qualitative and/ or quantitative).”",
+          "title5": "Stage 5: Evaluate",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "“Analyzing evidence collected from stakeholders, including students and staff.”\n<br>\n<br>“Reflecting on the impact of action taken.”\n<br>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-1y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dfdfdf"
+          },
+          "text": "<p>Betty Leask’s model of the process of IoC (Leask, 2015. p.42), from Leask, B. (2015).<i> Internationalizing the Curriculum</i>. Routledge.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1z"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dscf0902-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>In March 2018, PolyU invited Professor Betty Leask to Hong Kong to deliver a series of seminars and training workshops on the topics of Internationalization of the Curriculum in class, and designing and implementing strategic interventions in the formal curriculum and co-curriculum to improve the integration of students from diverse cultural background.</p><p>Inspired by her model, we have strategized our pedagogies in enhancing the learning experiences of both PolyU and overseas students in GEC's International Summer School courses.<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-21",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Learning Activities",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-20-15h12m30s640-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-25-19h10m57s692-1-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-31-14h09m43s545-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Fast-track Acquaintance",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Ice-breaking in the first lesson",
+          "title2": "Exploratory Activities",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Cultural sharing events",
+          "title3": "Team-up Projects",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Multicultural team work assignments",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-22"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfdfdf",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-31-17h36m33s343-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Fast-track Acquaintance",
+          "text": "This activity is fast but impactful and decisive for the successful milestone summer course. It facilitates the students to quickly acquaint and team up with their peers from a mixed cultural background.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-663-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Exploratory Activities",
+          "text": "Challenge and re-conceptualize students’ perspectives in adventurous tasks in time, place, cultures and societies. It is an effective way to build a respectful climate for all differences by being culturally inclusive.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-24",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2018-07-25-19h12m17s917-1280x720.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Team-up Projects",
+          "text": "In-depth team-up projects enable teammates from different cultural backgrounds to learn from each other, level the collaborative field by sharing ideas, values, briefs, norms and social practices. Through reflective tasks and dialogues, they can effectively relate to one another on a personal level.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-25",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "What Our FANTASTIC Students Say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Michael",
+              "authorBio": "Bath Spa University, UK<br>",
+              "text": "<p>“I think it is really beneficial to get different cultural perspectives on historical events. We are learning about European imperial expansions in the Far East and it’s interesting to see how the perspective is  different between Asian and Europeans, and how history interprets events in so many different ways\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-654-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Nick",
+              "authorBio": "PolyU",
+              "text": "<p>“Half of our classmates are international students, and the other half are from PolyU. We are grouped in pairs of one international student and one PolyU student. We talk to each other a lot. I think this arrangement is good for all classmates to have some cross-cultural experiences and the chance to talk to someone from another culture.</p><p>\n</p><p>I will introduce my other classmates to the International Summer School next year, because I like this course a lot!”</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-657-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Ivelina",
+              "authorBio": "University of Leeds, UK",
+              "text": "<p>\"It has helped me learn more about the culture mainly through the lectures but also through the group assignments. Because we have to discuss topics related to the customs and culture. By the end of it, because I’ve communicated with so many people, so many local students... that will be helpful for me to be more considerate about people from other cultures.\"</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-655-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "title": "Some of the students are from this list of exchange partners for ISS, PolyU",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "text1": "<p>Almaty Management University\n</p><p>Anhalt University of Applied Sciences\n</p><p>Aston University\n</p><p>Bath Spa University\n</p><p>Case Western Reserve University\n</p><p>Cornell University\n</p><p>Czech Technical University in Prague\n</p><p>Dayeh University\n</p><p>Fashion Institute of Technology\n</p><p>Feng Chia University</p><p>Fudan University\n</p><p>New York University \n</p><p>Georgia State University\n</p><p>Glasgow Caledonian University\n</p><p>HAN University of Applied Sciences, Arnhem Business School\n</p><p>Hanyang University\n</p><p>Harbin Institute of Technology\n</p><p>Hebrew University of Jerusalem\n</p><p>Kansas State University\n</p><p>KEA - Copenhagen School of Design and Technology\n</p><p>Korea Advanced Institute of Science &amp; Technology (KAIST)\n</p><p>Kozminski University\n</p><p>Leeds Arts University&nbsp;</p><p>Lucerne University of Applied Sciences and Arts\n</p><p>Maastricht Hotel Management School</p>",
+          "text2": "<p>Manchester Metropolitan University\n</p><p>National Cheng Kung University\n</p><p>National Sun Yat-sen University\n</p><p>National Taiwan University\n</p><p>National Tsing Hua University\n</p><p>National University of Singapore\n</p><p>New Jersey Institute of Technology\n</p><p>Nottingham Trent University\n</p><p>Osaka Gakuin University\n</p><p>Ostwestfalen-Lippe University of Applied Sciences\n</p><p>Peking University\n</p><p>Peter the Great St. Petersburg Polytechnic University\n</p><p>Purdue University\n</p><p>Royal University of Phnom Penh\n</p><p>Salzburg University of Applied Sciences\n</p><p>Seoul National University\n</p><p>Shanghai Jiao Tong University</p><p><span style=\"font-size: 1.07rem;\">Shih Hsin University </span></p><p><span style=\"font-size: 1.07rem;\">Sichuan University</span><br></p><p>Southeast University\n</p><p>Southern Cross University\n</p><p>Southwest Jiaotong University\n</p><p>Tampere University of Technology\n</p><p>Technische Hochschule Köln&nbsp;</p><p>The Hebrew University of Jerusalem</p>",
+          "text3": "<p>The University of New Mexico\n</p><p>Tongji University\n</p><p>Universidad de los Andes\n</p><p>Universiti Brunei Darussalam\n</p><p>University for the Creative Arts\n</p><p>University of Alberta\n</p><p>University of Applied Sciences Jena\n</p><p>University of Bradford\n</p><p>University of Calgary\n</p><p>University of Cincinnati\n</p><p>University of Exeter\n</p><p>University of Florida\n</p><p>University of Guelph\n</p><p>University of Houston\n</p><p>University of Leeds\n</p><p>University of New Brunswick\n</p><p>University of Nottingham \n</p><p>University of Southampton\n</p><p>University of the West of England, Bristol\n</p><p>University of Western Australia\n</p><p>Washington University in St. Louis\n</p><p>WU (Vienna University of Economics and Business)\n</p><p>Xi'an Jiaotong University\n</p><p>Yonsei University\n</p><p>Zagreb School of Economics and Management\n</p><p>Zhejiang University</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>Welcome to Join!</b></p><p><br></p><p>If you are interested in PolyU International Summer School 2019, please visit <a href=\"https://www.polyu.edu.hk/summerschool\" target=\"_blank\" style=\"font-style: normal;\">https://www.polyu.edu.hk/summerschool/</a>. All PolyU, international, and local students are welcome to join us.</p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Contacts</b></p><p><br></p><p>General Education Centre</p><p>Room A501, Chung Sze Yuen Building,</p><p>The Hong Kong Polytechnic University,</p><p>Hung Hom, Kowloon, Hong Kong&nbsp;</p><p><br></p><p><a href=\"mailto:gedept@polyu.edu.hk\" style=\"font-style: normal;\">gedept@polyu.edu.hk</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2p",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
